@@ -1,4 +1,4 @@
-# GIFAPP:
+# GIF-APP:
 esta es una pequeña aplicacion creada con react, funciona consumiendo una api y hosteada en Netlify.
 
 Tecnologias:
